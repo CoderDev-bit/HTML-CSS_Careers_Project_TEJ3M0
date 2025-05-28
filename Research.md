@@ -149,3 +149,11 @@ https://cobalt.tools/ (example website template; find a free one online)
 
 https://www.youtube.com/watch?v=4kXecGkdw4E
 
+
+
+
+
+
+https://www.educanada.ca/start-commencez/ai-ia.aspx?lang=eng
+
+https://www.coursera.org/courses?query=artificial%20intelligence
