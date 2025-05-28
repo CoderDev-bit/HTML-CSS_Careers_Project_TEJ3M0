@@ -132,7 +132,9 @@ Conclusion
      Success in this domain requires a solid grounding in technical skills, analytics, and problem-solving.
      Lifelong learning and adaptation to emerging technologies are crucial for AI engineers to stay at the forefront of the frequently changing AI engineering future.
 
-
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer
+https://ontariotechu.ca/programs/undergraduate/engineering/artificial-intelligence/index.php
+https://www.coursera.org/professional-certificates/ai-engineer
 
 
 ---Key Points:---
@@ -147,12 +149,14 @@ https://learn.microsoft.com/en-ca/plans/odgoumq07e4x83#
 
 https://cobalt.tools/ (example website template; find a free one online)
 
+
+https://future.utoronto.ca/undergraduate-programs/artificial-intelligence-engineering/
+
+https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/statistical-machine-learning.html
+
+https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/programs/SJ4ax1AAsh
+
 https://www.youtube.com/watch?v=4kXecGkdw4E
-
-
-
-
-
 
 https://www.educanada.ca/start-commencez/ai-ia.aspx?lang=eng
 
